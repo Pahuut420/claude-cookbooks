@@ -9,7 +9,7 @@
     "setup": "bun run setup/create-agent.ts"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.95.1",
+    "@anthropic-ai/sdk": "^0.128.0",
     "@slack/web-api": "^7.14.0"
   },
   "devDependencies": {
